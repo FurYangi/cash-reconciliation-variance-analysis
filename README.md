@@ -49,6 +49,9 @@ cash-reconciliation-variance-analysis/
 
 Across 60 sample shifts, the average variance was -$5.06 per shift, with a cumulative shortfall of -$303.70 over the period. 13 of 60 shifts (21.7%) were flagged under the $10 materiality threshold. Variance was not evenly distributed by cashier, which is a fast way to tell a systemic issue from an individual one. Morning shifts averaged a larger variance (-$6.45) than evening shifts (-$3.67) in this sample.
 
+
+![Average cash variance per shift by cashier](assets/cash_variance_chart.svg)
+
 (Sample data is synthetic, generated to resemble real POS reconciliation records; see `data/pos_transactions.csv`.)
 
 ## Skills Demonstrated
