@@ -25,6 +25,8 @@ Business questions addressed: which shifts and cashiers have the largest or most
 
 ```
 cash-reconciliation-variance-analysis/
+  assets/
+    cash_variance_chart.svg   (avg. cash variance per shift by cashier)
   data/
     pos_transactions.csv       (sample shift-level reconciliation data)
   notebooks/
